@@ -7,18 +7,10 @@ Welcome to Jack Demo's documentation!
 =====================================
 
 .. toctree::
-   :maxdepth: 2
+   :glob:
    :caption: Contents:
 
 
-   demo
-   _src/about
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   dummy0 dummy1
+   dummy2
+   dummy3
