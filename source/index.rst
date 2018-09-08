@@ -11,6 +11,7 @@ Welcome to Jack Demo's documentation!
    :caption: Contents:
 
 
-   dummy0 dummy1
+   dummy0*
+   dummy1 description <dummy1>
    dummy2
    dummy3
